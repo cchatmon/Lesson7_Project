@@ -17,5 +17,5 @@ LIS 2360:  Web Application Development
 2. (Briefly describe a lesson/concept learned in this lesson.)
 3. (Briefly describe a lesson/concept learned in this lesson.)
 
-## Snapshot of Final Lesson 3 Assignment:
-![Snapshot of Lesson 3](Lesson3_Snapshot.png)
+## Screenshot of Final Lesson 3 Assignment:
+![Screenshot of Final Lesson 3 Assignment](Lesson3_Snapshot.png)
